@@ -1,9 +1,29 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Indira+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Indira Welcome to my Profile! animated typed out">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Indira!;+Welcome+to+my+Github+Profile!" />
+</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=indiragothi&label=Profile%20views&color=0e75b6&style=flat" alt="indiragothi" /> </p>
 
-### Connect with me🌐
+<h3 align="left">😄 Pronouns She/ Her</h3>
+
 <div align="left">
-  <a href="indiragothi007@gmail.com" target="_blank">
+ 
+ 🌱 I’m currently learning **Web Development**
+ 
+🔭 I’m currently working on **My Course Work**
+
+ </div>
+
+ <br>
+
+ 
+## 🌐Connect With Me
+<br>
+ 
+<div align="left">
+   <a href="mailto:indiragothi007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="35" alt="gmail logo"/>
+  </a>
   <a href="https://www.linkedin.com/in/indiragothi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -11,6 +31,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+ 
 
 ## ⚡ Technologies
 
